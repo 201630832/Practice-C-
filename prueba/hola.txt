@@ -1,2 +1,4 @@
 Hello everyone, I am using git!
 what happend?
+
+hey, another comment in this script
