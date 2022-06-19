@@ -6,3 +6,5 @@ hey, another comment in this script
 Hi again, this is a message from windows :)
 
 This is another test to git and github.
+
+last message of the day, see you soon son.
